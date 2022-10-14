@@ -1,0 +1,23 @@
+{
+  "name": "waste-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+ 
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saineyceesay/waste-management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saineyceesay/waste-management/issues"
+  },
+  "homepage": "https://github.com/saineyceesay/waste-management#readme"
+}
